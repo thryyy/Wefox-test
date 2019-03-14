@@ -1,4 +1,4 @@
-### [Find the Nthest smallest number](https://github.com/thryyy/Wefox-test/blob/master/SmallestNthest/SmallestNthest.js)
+### [Find the Nth smallest number](https://github.com/thryyy/Wefox-test/blob/master/SmallestNthest/SmallestNthest.js)
 Generate 500 random numbers and print the nth smallest number.
 - find the source code  [here](https://github.com/thryyy/Wefox-test/blob/master/SmallestNthest/SmallestNthest.js)
 
