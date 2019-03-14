@@ -1,3 +1,5 @@
+// SmallestNthest.js
+// File created by Thomas Gobin for Wefox
 
 function findNthestLowestNumber(array, NthestSmallestNumber) {
     //duplicate the randomArray
