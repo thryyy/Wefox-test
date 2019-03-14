@@ -2,7 +2,7 @@
 Generate 500 random numbers and print the nth smallest number.
 - find the source code  [here](https://github.com/thryyy/Wefox-test/blob/master/SmallestNthest/SmallestNthest.js)
 
-###[Palindrome](https://github.com/thryyy/Wefox-test/blob/master/Palindrome/Palindrome.js)
+### [Palindrome](https://github.com/thryyy/Wefox-test/blob/master/Palindrome/Palindrome.js)
 Create a program to recognize palindrome sentences (e.g. Race Car)
 - find the source code  [here](https://github.com/thryyy/Wefox-test/blob/master/Palindrome/Palindrome.js)
 
