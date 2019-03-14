@@ -9,7 +9,7 @@ Create a program to recognize palindrome sentences (e.g. Race Car)
 ### [Automated use case using Protractor](https://github.com/thryyy/Wefox-test/tree/master/Protractor)
 Automate the next use case with Selenium Webdriver using Protractor and the page object pattern.
 
-1. Go to“https://my.wefox.de/login”(use Chrome browser).
+1. Go to“[https://my.wefox.de/login](https://my.wefox.de/login)” (use Chrome browser).
 2. Check that the page loaded is the expected one.
 3. Enter next credentials, do login and then check that the agent image is loaded. { User:
 4. Click on contracts sections and check the label “... no contracts yet”.
