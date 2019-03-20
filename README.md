@@ -7,6 +7,9 @@ Create a program to recognize palindrome sentences (e.g. Race Car)
 - find the source code  [here](https://github.com/thryyy/Wefox-test/blob/master/Palindrome/Palindrome.js)
 
 ### [Automated use case using Protractor](https://github.com/thryyy/Wefox-test/tree/master/Protractor)
+
+[20/03/2019] [New version with Page Objets](https://github.com/thryyy/Wefox-test/tree/master/Protractor%20with%20Page%20Objects)
+
 Automate the next use case with Selenium Webdriver using Protractor and the page object pattern.
 
 1. Go to“[https://my.wefox.de/login](https://my.wefox.de/login)” (use Chrome browser).
